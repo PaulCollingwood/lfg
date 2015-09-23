@@ -1,0 +1,6 @@
+span.grey {
+    color: grey;
+}
+p {
+word-break: keep-all; 
+}
