@@ -4,3 +4,6 @@ span.grey {
 p {
 word-break: keep-all; 
 }
+h1, h2 {
+word-break: keep-all; 
+}
